@@ -38,12 +38,8 @@
 ## 🚀 Tech Stack & Focus Areas
 
 - **HTML / CSS / JS**
-- **API Fetching**
 - **Responsive Layouts**
 - **SEO & Meta Tags**
-- **Advanced C / C++ for Web Servers**
-- **Game Logic / Rendering**
-- **GitHub Best Practices**
 
 ---
 
