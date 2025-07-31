@@ -19,6 +19,7 @@
 | Project | Description |
 |--------|-------------|
 | [Single-Page-CV](https://github.com/YounesMoukhlij/Single-Page-CV) | A responsive single-page CV using semantic HTML, modern CSS, SEO meta tags, Open Graph tags, and a favicon. |
+| [Basic-HTML-Website](https://github.com/YounesMoukhlij/Basic-HTML-Website) | A clean, semantic HTML portfolio website with proper document structure and accessibility considerations, focusing on content hierarchy without CSS styling. Demonstrates core HTML5 features including navigation, sections, lists, and blockquotes. |
 
 
 ---
