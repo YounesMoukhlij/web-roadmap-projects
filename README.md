@@ -22,7 +22,13 @@
 | [Basic-HTML-Website](https://github.com/YounesMoukhlij/Basic-HTML-Website) | A clean, semantic HTML portfolio website with proper document structure and accessibility considerations, focusing on content hierarchy without CSS styling. Demonstrates core HTML5 features including navigation, sections, lists, and blockquotes. |
 | [Personal-Portfolio](https://github.com/YounesMoukhlij/Personal-Portfolio) | A fully responsive personal portfolio showcasing projects with interactive elements. Built with modern CSS (Flexbox/Grid), JavaScript for dynamic content, and optimized for performance and accessibility across devices. |
 | [Changelog-Component](https://github.com/YounesMoukhlij/Changelog-Component) | A beautiful  changelog component built with HTML and CSS. Features a clean timeline design displaying project updates, releases, and announcements in an elegant vertical layout with dates, dots, and descriptions. Fully responsive and customizable. |
-|(Accessible Form UI)[https://github.com/YounesMoukhlij/Accessible-Form-UI] | A modern, accessible user profile form with interactive elements and real-time validation feedback. This project demonstrates best practices for web accessibility and form design.|
+|[Accessible Form UI](https://github.com/YounesMoukhlij/Accessible-Form-UI) | A modern, accessible user profile form with interactive elements and real-time validation feedback. This project demonstrates best practices for web accessibility and form design.|
+| [Image Grid Layout](https://github.com/YounesMoukhlij/Image-Grid-Layout) | The goal of this project is to give you hands-on experience with CSS Grid, allowing you to create complex layouts with ease. Below is a rough mockup showing the grid layout you need to create along with the six images that you should use.|
+
+| []() ||
+| []() ||
+| []() ||
+| []() ||
 
 
 ---
