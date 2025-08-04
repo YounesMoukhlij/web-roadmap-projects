@@ -25,8 +25,9 @@
 |[Accessible Form UI](https://github.com/YounesMoukhlij/Accessible-Form-UI) | A modern, accessible user profile form with interactive elements and real-time validation feedback. This project demonstrates best practices for web accessibility and form design.|
 | [Image Grid Layout](https://github.com/YounesMoukhlij/Image-Grid-Layout) | The goal of this project is to give you hands-on experience with CSS Grid, allowing you to create complex layouts with ease. Below is a rough mockup showing the grid layout you need to create along with the six images that you should use.|
 
-| []() ||
-| []() ||
+| [Tooltip UI](https://github.com/YounesMoukhlij/Tooltip-UI) | The goal of this project is to help you understand how to use CSS for dynamic UI effects. You will learn how to position elements relative to each other, create smooth transitions, and make your navigation more interactive and user-friendly.|
+
+| [Datepicker UI](https://github.com/YounesMoukhlij/Datepicker-UI) |The goal of this project is to help you practice positioning, layout, and styling techniques in CSS. Below is a rough mockup showing the datepicker UI you need to create.|
 | []() ||
 | []() ||
 
