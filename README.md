@@ -26,18 +26,20 @@
 | [Image Grid Layout](https://github.com/YounesMoukhlij/Image-Grid-Layout) | The goal of this project is to give you hands-on experience with CSS Grid, allowing you to create complex layouts with ease. Below is a rough mockup showing the grid layout you need to create along with the six images that you should use.|
 | [Tooltip UI](https://github.com/YounesMoukhlij/Tooltip-UI) | The goal of this project is to help you understand how to use CSS for dynamic UI effects. You will learn how to position elements relative to each other, create smooth transitions, and make your navigation more interactive and user-friendly.|
 | [Datepicker UI](https://github.com/YounesMoukhlij/Datepicker-UI) |The goal of this project is to help you practice positioning, layout, and styling techniques in CSS. Below is a rough mockup showing the datepicker UI you need to create.|
-| []() ||
-| []() ||
-| []() ||
-| []() ||
-| []() ||
-| []() ||
+| [Tabs](https://github.com/YounesMoukhlij/Tabs) |This project is designed to introduce you to basic DOM manipulation and event handling in JavaScript.|
+| [Cookie Consent](https://github.com/YounesMoukhlij/Cookie-Consent) ||
+| [Restricted Textarea](https://github.com/YounesMoukhlij/Restricted-Textarea) ||
+| [Accordion](https://github.com/YounesMoukhlij/Accordion) ||
+| [Age Calculator](https://github.com/YounesMoukhlij/Age-Calculator) ||
+| [Flash Cards](https://github.com/YounesMoukhlij/Flash-Cards) ||
 
 
 ---
 
 ## 🟡 Intermediate Projects
 
+| Project | Description |
+|--------|-------------|
 
 ---
 
@@ -51,8 +53,6 @@
 ## 🚀 Tech Stack & Focus Areas
 
 - **HTML / CSS / JS**
-- **Responsive Layouts**
-- **SEO & Meta Tags**
 
 ---
 
