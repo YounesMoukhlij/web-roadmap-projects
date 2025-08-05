@@ -27,7 +27,7 @@
 | [Tooltip UI](https://github.com/YounesMoukhlij/Tooltip-UI) | The goal of this project is to help you understand how to use CSS for dynamic UI effects. You will learn how to position elements relative to each other, create smooth transitions, and make your navigation more interactive and user-friendly.|
 | [Datepicker UI](https://github.com/YounesMoukhlij/Datepicker-UI) |The goal of this project is to help you practice positioning, layout, and styling techniques in CSS. Below is a rough mockup showing the datepicker UI you need to create.|
 | [Tabs](https://github.com/YounesMoukhlij/Tabs) |This project is designed to introduce you to basic DOM manipulation and event handling in JavaScript.|
-| [Cookie Consent](https://github.com/YounesMoukhlij/Cookie-Consent) | This project is designed to introduce you to basic DOM manipulation and event handling in JavaScript.|
+| [Cookie Consent](https://github.com/YounesMoukhlij/Cookie-Consent) | Many websites display a cookie consent popup to inform users about the use of cookies and to obtain their consent. In this project, you will create a simple cookie consent popup that appears when the user visits the page. The popup will include a message and a button to accept the consent. Once accepted, the popup will disappear.|
 | [Restricted Textarea](https://github.com/YounesMoukhlij/Restricted-Textarea) ||
 | [Accordion](https://github.com/YounesMoukhlij/Accordion) ||
 | [Age Calculator](https://github.com/YounesMoukhlij/Age-Calculator) ||
