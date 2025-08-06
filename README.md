@@ -29,8 +29,8 @@
 | [Tabs](https://github.com/YounesMoukhlij/Tabs) |This project is designed to introduce you to basic DOM manipulation and event handling in JavaScript.|
 | [Cookie Consent](https://github.com/YounesMoukhlij/Cookie-Consent) | Many websites display a cookie consent popup to inform users about the use of cookies and to obtain their consent. In this project, you will create a simple cookie consent popup that appears when the user visits the page. The popup will include a message and a button to accept the consent. Once accepted, the popup will disappear.|
 | [Restricted Textarea](https://github.com/YounesMoukhlij/Restricted-Textarea) | You are required to create a textarea that tracks and displays the number of characters typed by the user, along with a maximum character limit.|
-| [Accordion](https://github.com/YounesMoukhlij/Accordion) ||
-| [Age Calculator](https://github.com/YounesMoukhlij/Age-Calculator) ||
+| [Accordion](https://github.com/YounesMoukhlij/Accordion) |You are required to create an accordion component that displays a list of questions or headings. When a user clicks on a question, its corresponding answer or content section will expand while collapsing any previously opened section. This allows only one section to be open at a time, keeping the UI clean and organized.|
+| [Age Calculator](https://github.com/YounesMoukhlij/Age-Calculator) |The goal of this project is to help you learn about how to use external packages using npm. The user inputs their birthdate via a JavaScript Datepicker, and the app calculates and displays their exact age, including years, and months using Luxon.|
 | [Flash Cards](https://github.com/YounesMoukhlij/Flash-Cards) ||
 
 
