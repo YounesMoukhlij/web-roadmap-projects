@@ -18,7 +18,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [Single-Page-CV](https://github.com/YounesMoukhlij/Single-Page-CV) | A responsive single-page CV using semantic HTML, modern CSS, SEO meta tags, Open Graph tags, and a favicon. |
+| [Single-Page-CV](https://github.com/YounesMoukhlij/Single-Page-CV) | Single-page CV using semantic HTML, modern CSS, SEO meta tags, Open Graph tags, and a favicon. |
 | [Basic-HTML-Website](https://github.com/YounesMoukhlij/Basic-HTML-Website) | A clean, semantic HTML portfolio website with proper document structure and accessibility considerations, focusing on content hierarchy without CSS styling. Demonstrates core HTML5 features including navigation, sections, lists, and blockquotes. |
 | [Personal-Portfolio](https://github.com/YounesMoukhlij/Personal-Portfolio) | A fully responsive personal portfolio showcasing projects with interactive elements. Built with modern CSS (Flexbox/Grid), JavaScript for dynamic content, and optimized for performance and accessibility across devices. |
 | [Changelog-Component](https://github.com/YounesMoukhlij/Changelog-Component) | A beautiful  changelog component built with HTML and CSS. Features a clean timeline design displaying project updates, releases, and announcements in an elegant vertical layout with dates, dots, and descriptions. Fully responsive and customizable. |
