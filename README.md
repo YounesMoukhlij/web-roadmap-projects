@@ -31,7 +31,7 @@
 | [Restricted Textarea](https://github.com/YounesMoukhlij/Restricted-Textarea) | You are required to create a textarea that tracks and displays the number of characters typed by the user, along with a maximum character limit.|
 | [Accordion](https://github.com/YounesMoukhlij/Accordion) |You are required to create an accordion component that displays a list of questions or headings. When a user clicks on a question, its corresponding answer or content section will expand while collapsing any previously opened section. This allows only one section to be open at a time, keeping the UI clean and organized.|
 | [Age Calculator](https://github.com/YounesMoukhlij/Age-Calculator) |The goal of this project is to help you learn about how to use external packages using npm. The user inputs their birthdate via a JavaScript Datepicker, and the app calculates and displays their exact age, including years, and months using Luxon.|
-| [Flash Cards](https://github.com/YounesMoukhlij/Flash-Cards) ||
+| [Flash Cards](https://github.com/YounesMoukhlij/Flash-Cards) |The goal of this project is to help you learn about how to use state management and component-based architecture using JavaScript frameworks. You will build a flash card app with pre-defined JavaScript questions and answers that users can flip through to test their knowledge.|
 
 
 ---
