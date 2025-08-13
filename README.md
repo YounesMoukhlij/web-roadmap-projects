@@ -41,13 +41,20 @@
 | Project | Description |
 |--------|-------------|
 | [Custom Dropdown](https://github.com/YounesMoukhlij/Custom-Dropdown) | You will create a custom dropdown menu that lets users select an item from a list. The dropdown should have a default state showing a placeholder text, an open state revealing all options, and a selected state where the chosen item is displayed. When an item is selected, the dropdown closes, and the selected item is highlighted.|
-
+| [Task Tracker](https://github.com/YounesMoukhlij/Task-Tracker) | You are required to create a task tracker that lets users add new tasks, mark them as complete, or delete them. Completed tasks will be moved to the end of the list and will have strikethrough, and users can unmark tasks to return them to the pending list.|
+|[GitHub Random Repository](https://github.com/YounesMoukhlij/GitHub-Random-Repository)||
+|[Reddit Client](https://github.com/YounesMoukhlij/Reddit-Client)||
+|[Temperature Converter](https://github.com/YounesMoukhlij/Temperature-Converter)||
+|[Pomodoro Timer](https://github.com/YounesMoukhlij/Pomodoro-Timer)||
+|[Quiz App](https://github.com/YounesMoukhlij/Quiz-App)||
+|[Weather Web App](https://github.com/YounesMoukhlij/Weather-Web-App)||
 ---
 
 ## 🔴 Advanced Projects
 
 | Project | Description |
 |--------|-------------|
+|24hr Story Feature](https://github.com/YounesMoukhlij/24hr-Story-Feature)||
 
 ---
 
