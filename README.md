@@ -44,7 +44,7 @@
 | [Task Tracker](https://github.com/YounesMoukhlij/Task-Tracker) | You are required to create a task tracker that lets users add new tasks, mark them as complete, or delete them. Completed tasks will be moved to the end of the list and will have strikethrough, and users can unmark tasks to return them to the pending list.|
 |[GitHub Random Repository](https://github.com/YounesMoukhlij/GitHub-Random-Repository)|This project is designed to introduce you to working with external APIs, handling asynchronous requests, and managing different UI states with JavaScript.|
 |[Reddit Client](https://github.com/YounesMoukhlij/Reddit-Client)|soon|
-|[Temperature Converter](https://github.com/YounesMoukhlij/Temperature-Converter)|soon|
+|[Temperature Converter](https://github.com/YounesMoukhlij/Temperature-Converter)|This project is designed to help you practice DOM manipulation, form handling, and basic calculations in JavaScript.|
 |[Pomodoro Timer](https://github.com/YounesMoukhlij/Pomodoro-Timer)|soon|
 |[Quiz App](https://github.com/YounesMoukhlij/Quiz-App)|soon|
 |[Weather Web App](https://github.com/YounesMoukhlij/Weather-Web-App)|soon|
